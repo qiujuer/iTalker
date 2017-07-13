@@ -13,3 +13,4 @@
 
 - https://github.com/wuyinlei/CNIm4Android
 - https://github.com/wuyinlei/CNIMStudy
+- http://www.jianshu.com/p/95222eeb35a4
