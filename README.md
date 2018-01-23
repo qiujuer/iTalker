@@ -1,6 +1,9 @@
 # iTalker
 一个使用MD设计的高效IM软件，http://coding.imooc.com/class/100.html
 
+## 常见问题解决方案
+[解决方案](https://github.com/qiujuer/iTalker/issues)
+
 
 ## 盗版
 > 我非常热衷开源，但是我希望大家都能尊重最初的作者，以上的技术全部都在我的实战课程中，欢迎购买课程支持我继续产出高质量内容。
