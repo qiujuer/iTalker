@@ -1,11 +1,8 @@
-# iTalker
-一个使用MD设计的高效IM软件，http://coding.imooc.com/class/100.html
+使用MD设计的高效IM APP，http://coding.imooc.com/class/100.html
 
 ## 非常重要的事
 - **群文件/代码文件夹/TXT文件有重要内容，请提前查看！！！**
 - [常见问题解决方案](https://github.com/qiujuer/iTalker/issues)
-
-
 
 
 ## 盗版
