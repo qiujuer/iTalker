@@ -2,7 +2,8 @@
 
 ## 非常重要的事
 - **群文件/代码文件夹/TXT文件有重要内容，请提前查看！！！**
-- [常见问题解决方案](https://github.com/qiujuer/iTalker/issues)
+- [常见问题解决方案](https://github.com/qiujuer/iTalker/issues?q=is%3Aissue+is%3Aclosed)
+- [新问题与解决方案提交](https://github.com/qiujuer/iTalker/issues/new)
 
 
 ## 盗版
