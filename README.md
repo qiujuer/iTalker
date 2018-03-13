@@ -102,4 +102,5 @@ OK，环境心态准备好了后，就跟着我一起开发吧。
 
 ## 公共群
 为了方便所有同学能一起相互交流，大家可以添加群：**680054214**
+
 ![android club](https://user-images.githubusercontent.com/5687320/37321303-c3a91bdc-26b2-11e8-97ed-3e4f4658de9b.png)
