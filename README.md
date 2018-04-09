@@ -5,6 +5,7 @@
 - [常见问题解决方案](https://github.com/qiujuer/iTalker/issues?q=is%3Aissue+is%3Aclosed)
 - [新问题与解决方案提交](https://github.com/qiujuer/iTalker/issues/new)
 - [课程代码正确导入方式-免去404错误](https://github.com/qiujuer/iTalker/issues/19)
+- [课程代码导入idea2018版本注意事项](https://github.com/qiujuer/iTalker/issues/22)
 
 
 ### 盗版
