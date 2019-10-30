@@ -1,6 +1,6 @@
 使用MD设计的高效IM APP，http://coding.imooc.com/class/100.html
 
-### [服务器外网部署攻略](https://github.com/qiujuer/iTalker/issues/3)
+### [云服务器部署攻略](https://github.com/qiujuer/iTalker/issues/3)
 
 ### 非常重要的事
 - **群文件/代码文件夹/TXT文件有重要内容，请提前查看！！！**
